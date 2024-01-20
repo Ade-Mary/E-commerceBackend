@@ -1,6 +1,5 @@
-package com.maryj.ecommercebackend.model.mode;
+package com.maryj.ecommercebackend.model.model;
 
-import com.maryj.ecommercebackend.model.mode.Inventory;
 import jakarta.persistence.*;
 
 @Entity
